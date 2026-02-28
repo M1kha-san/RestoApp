@@ -1,0 +1,6 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/M1kha-san/resto-mobile.git
+[submodule "web-api"]
+	path = web-api
+	url = https://github.com/M1kha-san/resto-backend.git
